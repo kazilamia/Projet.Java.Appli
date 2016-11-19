@@ -13,11 +13,11 @@ Gestion des étudiant
  
  MIT license:
  
- [KAZI-Tani Lamia ](https://github.com/kazilamia).
+ [KAZI-TANI Lamia ](https://github.com/kazilamia).
  
  [BENRAMDANE Bouttheina](https://github.com/boutheina21).
  
- [Fehim Mahfoud](https://github.com/MF1996).
+ [FEHIM Mahfoud](https://github.com/MF1996).
  
  [BENSAFI  Fatima Zohra](https://github.com/Fatima1930).
  
